@@ -1,4 +1,4 @@
-django==1.9.13
+django==1.11.29
 djangorestframework==3.4
 django-filter==2.1.0
 django-cors-headers==1.1.0
